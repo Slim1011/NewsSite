@@ -1,0 +1,36 @@
+﻿body {background-color: #eee;
+      width:100%;
+}
+
+.TopicNamecenter{
+    color:darkblue;
+   /* position:static*/
+   font-family:'Times New Roman', Times, serif;
+    
+
+}
+.TopicBodycenter {
+    color: black;
+    margin-bottom: 60px;
+    margin-left: auto;
+    font-size:medium;
+  /*  margin-right: auto*/
+}
+
+.image {
+   
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto
+}
+.image img{
+    width:100%;
+}
+.text-center{
+    font-family:Algerian;
+    background-color:mediumaquamarine;
+    font-size:100px;
+    color:red;
+    margin-bottom:60px;
+    
+}
